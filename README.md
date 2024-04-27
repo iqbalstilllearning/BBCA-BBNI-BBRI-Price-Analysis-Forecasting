@@ -111,6 +111,7 @@ Range of Daily Returns:
 ![output8](https://github.com/iqbalstilllearning/BBCA-BBNI-BBRI-Price-Analysis-Forecasting/assets/105572256/940eca31-331a-413c-8109-0911ae80ab33)
 ![output9](https://github.com/iqbalstilllearning/BBCA-BBNI-BBRI-Price-Analysis-Forecasting/assets/105572256/a903be54-9261-4977-8656-9b7597e45efe)
 ![output10](https://github.com/iqbalstilllearning/BBCA-BBNI-BBRI-Price-Analysis-Forecasting/assets/105572256/775f1e8f-c9ca-4ae4-8227-3e84988650f6)
+
 Key findings:
 - The LSTM model appears to be effective in capturing patterns in the data, as reflected by the low MAPE values.
 - The slightly better performance on the validation set compared to the testing set raises concerns about potential overfitting, and further steps should be taken to address this.
